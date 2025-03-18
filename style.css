@@ -4,3 +4,16 @@ body{
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
 }
+
+label{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+input,button{
+    color: black;
+    background-color: white;
+    font-size: 20px;
+    border-radius: 16px;
+}
